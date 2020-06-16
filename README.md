@@ -1,3 +1,3 @@
 # text-mainframe-computer
 
-Words about Technology.
+Words about computers.
