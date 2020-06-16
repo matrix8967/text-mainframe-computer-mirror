@@ -46,5 +46,5 @@ plugins:
  - jekyll/tagging
 
 # Replaces the default avatar provider (gravatar)
-avatar_source: gitlab
-gitlab_username: matrix8967
+avatar_source: github
+github_username: matrix8967
