@@ -2,7 +2,7 @@
 layout: post
 title:  "Introductions"
 description: Hello world
-tags: Welcome Intro Start HelloWorld
+tags: Welcome 
 ---
 
 Computer Networks are complicated. Securing them is often more complicated.
