@@ -2,12 +2,12 @@
 layout: post
 title:  "wtf is encryption?"
 description: URYYB JBEYQ.
-tags: Intro Words Terms Encryption Vocab
+tags: Encryption-101
 ---
 
 # **Encryption**
 
-Encryption and Cryptography are old as secrets themselves. Stated simply - to encrypt something means to hide or obscure it using a secret method. When this method is used in the context of modern computers, it's often referred to as "Cryptography."
+Encryption are old as secrets themselves. Stated simply - to encrypt something means to hide or obscure it using a secret method.
 
 ## **Word Salad**
 
@@ -35,22 +35,22 @@ U R Y Y B J B E Y Q
 
 ## When in Rome
 
-This particular method is called a "Caesar Cipher" and was often used by Julius Caesar in his military correspondence. (Doesn't that inspire confidence!)
+Our example above is actually called a "Caesar Cipher" as it was often used by Julius Caesar in his military correspondence. (Doesn't _that_ inspire confidence!)
 
-While primitive by today's standards, this encryption was sufficient for the time. The literacy rate of an Ancient Roman General doesn't really compare to a person in the modern age.
+While it's primitive by today's standards, this encryption was sufficient for the time. The literacy rate of an Ancient Roman General doesn't really compare to a person in the modern age.
 
-Eagle eyed readers will have already found an obvious flaw in our chosen encryption mechanism: repetition found in the word `HELLO`. From the pattern `JGNNQ` we know our word:
+Eagle eyed readers will have already found an underlying flaw in our chosen mechanism: repetition. From the pattern `JGNNQ` we know our word:
 
 * Contains only `5` letters.
 * Letters `3` and `4` repeat.
 
-This observation greatly reduces the possible outcomes our word can be deciphered as. If `HELLO` is used as it's most common form to open a correspondence, outsiders will easily derive the pattern used to encrypt our message.
+This observation greatly reduces the possible outcomes our word can be deciphered as. If `HELLO` is used to open a correspondence, this will make it *even easier* for outsiders to derive the pattern used to encrypt our message.
 
 Weak encryption has left our friendship is in _ruins_.
 
 ## Be sure to drink your Ovaltine
 
-This type of Statistical Pattern Analysis was a significant factor in Alan Turing's success breaking the codes of Nazi Germany's `Enigma Machine`. Not only did this help turn the tide of the war, it's considered the dawn of Computer Science in the modern age. Turing's research was so vital to continued post-war intelligence, it wasn't declassified until 2012, a full century after his birth.
+This type of Statistical Pattern Analysis was a major factor in Alan Turing's success breaking the codes of Nazi Germany's `Enigma Machine`. Not only did this help turn the tide of the war, it's considered the dawn of Computer Science in the modern age. Turing's research was so vital to continued post-war intelligence, it wasn't declassified until 2012, a full century after his birth.
 
 -----
 
