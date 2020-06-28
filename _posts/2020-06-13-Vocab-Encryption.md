@@ -7,7 +7,7 @@ tags: Encryption-101
 
 # **Encryption**
 
-Encryption are old as secrets themselves. Stated simply - to encrypt something means to hide or obscure it using a secret method.
+Encryption is as old as secrets. Stated simply - to encrypt something means to hide or obscure it using a secret method.
 
 ## **Word Salad**
 
