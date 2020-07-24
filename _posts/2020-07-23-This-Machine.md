@@ -18,12 +18,11 @@ As always, this build enjoys a new set efficiencies over any of my previous syst
 * 100% Linux. No more dual-booting into an adware ridden shithole for games.
 * No SATA allowed - ride or die for NVMe m.2.
 * No Moving Parts (Except Fans.)
-* All Fans are now PWM / Thermal Scaled a Fan Curve.
+* All Fans are now PWM / Thermal Scaled on a Fan Curve.
 * A Fully Modular PSU.
-* A smaller form factor case for the Mid-ATX size category.
 * Re-Enforced PCIE Slots so I don't have to improv fixes for [gpu-sagging.](../../../assets/images/RWB/gpusag.jpeg)
 
-(I know this shit is long af, idk how I'm gonna organize it all yet. Still working on it. Sorry for typos don't `@` me.)
+(I know this shit is long af, I'm gonna reorganize it I think. Still working on it. Sorry for typos don't `@` me.)
 
 # Ship of Theseus.
 
@@ -45,7 +44,7 @@ If I *had* to complain - I would say the build-quality of the metal feels a _lit
 
 ### Huge Fan
 
-Noctua are the cadillac of the airflow / static pressure fan game, and there's just no way to say something like that without coming off as an insufferable fucking prick.
+Noctua are the cadillac of the airflow / static pressure fan game, and there's just _no way_ to say something like that without coming off as an insufferable fucking prick.
 
 The price was hard to swallow at first, but went down easier with more research. 6-year manufacturer warranty for bearing replacements is worth it on it's own. I'm not even sure I've had a fan last that long? 120mm case fans are a universal truth now so these should last quite a few miles.
 
@@ -111,11 +110,13 @@ An 8-core, 16 thread fucking _beef bus_ for well under $300 bones. What a muther
 
 # The Zen Art of Hardware Maintenance
 
+_Hey sport, let's get serious for a sec._
+
 While I was finishing the cable management I stopped to reflect how this reignited a passion that I worried might have been lost. I was able to do something I've not been able to do in a long time: `I was able to slow down.` I could consider the *best* ways to approach problems. I was able to experiment, measure, and re-evaluate.
 
 I'd forgotten what it was like to _enjoy_ this kind of work. I had started to doubt myself as an engineer. But I found a long-forgotten peace in the small acts of routing cables, cinching zip ties, and tightening screws.
 
-I got lost in vacuum of muted reflection as I thought about heat, airflow, and tension.
+I got lost in a vacuum of muted reflection as I thought about heat, airflow, and tension.
 
 I rediscovered my _mind of metal and wheels_.
 
