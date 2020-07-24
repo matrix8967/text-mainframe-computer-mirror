@@ -60,13 +60,17 @@ However, this is still what experts call _"pretty fuckin' bad"_ and I would rath
 
 ### _WHOOSH_
 
-The CPU Cooler consists of a [large metal heatsink](../../../assets/images/RWB/finland.jpg) with two fans configured in a "push/pull" arrangement. The heatsink is [*firmly*](../../../assets/images/RWB/screwd.jpeg) attached to the CPU with tension mounting.
+The CPU Cooler consists of a [large metal heatsink](../../../assets/images/RWB/finland.jpg) with two fans configured in a "push/pull" arrangement. The heatsink is 👌 [*firmly*](../../../assets/images/RWB/screwd.jpeg) attached to the CPU by tension mounting.
 
-A layer of [thermal paste](../../../assets/images/RWB/compounding.jpg) conducts heat away from the die of the CPU, and uses the 6 large heat pipes to distribute the heat over the surface area of the layered fins. Air is directed over these fins, and exhausts the heat out of the case.
+A layer of [thermal paste](../../../assets/images/RWB/compounding.jpg) conducts heat away from the die of the CPU, and uses the 6 large heat pipes to distribute the heat throughout surface area of the layered fins.
 
-[Sorta like this.](../../../assets/images/RWB/whoosh.png)
+[Cool air is pulled from the front,](../../../assets/images/RWB/whoosh.png) through the fins of the heatsink, where it's exhausted out of the back.
 
-### How could you be _so controversial_ yet _so brave_?
+###### More like whoosh
+
+The name of the game is to move heat *away* from the CPU and get it out of the case. For the first time every fan in the entire system is working on a "Fan Curve" which is to say each fan (even PSU, GPU Fans) speed is dependent on temperature. Idle temps mean the case and CPU fans lumber alone at leisurely `>400rpm` rate, while GPU and PSU fans don't engage at all.
+
+### No SATA? How could you be _so controversial yet so brave_?
 
 I've removed my "Cold Storage" 7200 RPM Disk Drives. I've also pressed on into the future to remove SATA SSDs. ~~I promise I'll come back for you.~~
 
@@ -92,11 +96,13 @@ This was the most feature rich Motherboard with the `X570` Chipset which should 
 
 AMD Radeon 5700XT GPU is an attention-commanding center piece here.
 
-This is the component I spent the most time thinking about. The reasons for choosing this GPU have carried on in my mind since before I began planning the 2017 build. Budgets, timing, many other factors played into me being gun-shy. After 3 years of back-and-forth I decided to shoot my shot. The specific variant of this card was chosen due to it's aggressive thermal performance compared to other models of the same card.
+This is the component I spent the most time wallowing about. The reasons for choosing this GPU have carried on in my mind since before I began planning the 2017 build. Budgets, timing, and the bitcoin boom kept me on my Nvidia GTX 1080. After 3 years of back-and-forth I decided to shoot my shot. The specific variant of this card was chosen due to it's aggressive thermal performance compared to other models of the same card.
 
 I would be liar if I said the aggressive design wasn't also a contributing factor.
 
 I'm a slave to appearances.
+
+But the primary draw was to remove myself from Nvidia's Closed Source Prop drivers and reward one of AMD's biggest engineering strides: Pushing their Linux Graphics Drivers directly into the Linux Kernel - ensuring all linux distros booting a modern kernel will have full GPU support out of the box.
 
 ### Big Brain Time
 
