@@ -62,17 +62,17 @@ However, this is still what experts call _"pretty fuckin' bad"_ and I would rath
 
 The CPU Cooler consists of a [large metal heatsink](../../../assets/images/RWB/finland.jpg) with two fans configured in a "push/pull" arrangement. The heatsink is [*firmly*](../../../assets/images/RWB/screwd.jpeg) attached to the CPU with tension mounting.
 
-A layer of [thermal paste](../../../assets/images/RWB/compounding.jpg) conducts heat away from the die of the CPU, and distributes it through the surface area of the heatsink.
-
-Two fans pull cool air into the case from the front, pushing it towards the GPU and CPU. The fan on the front of the heatsink pulls that cool air and pushes it through the fins of the heatsink. The fan on the other side "pulls" the hot air through and sends it towards a rear exhaust fan. A 4th case fan is mounted to the top of the case, pulling ambient heat out.
+A layer of [thermal paste](../../../assets/images/RWB/compounding.jpg) conducts heat away from the die of the CPU, and uses the 6 large heat pipes to distribute the heat over the surface area of the layered fins. Air is directed over these fins, and exhausts the heat out of the case.
 
 [Sorta like this.](../../../assets/images/RWB/whoosh.png)
 
 ### PSU, RAM, NVME M.2, SATA, SSDs, ALL, CAPS, ACRONYMS.
 
-I've removed my "Cold Storage" 7200 RPM Disk Drives - as well as pressed on into the future to remove SATA SSDs. *Yoinked* this idea from a friend while looking over the final draft of hardware. I'm always ready to chow down on some humble pie, so I wanted to make public a spectacle of eating my fuckin' words I guess.
+I've removed my "Cold Storage" 7200 RPM Disk Drives. I've pressed on into the future to remove SATA SSDs. ~~I promise I'll come back for you.~~ 
 
-Here I am, looking like a _horse's ass_, with all my spinning Disk Drives in a NAS _like an idiot._
+I was really critical of this idea, when looking over a friend's final draft for hardware. Then I realized it was a good idea and I was wrong. I'm not sure how I'll ever recover.
+
+Here I am, looking like a _horse's ass_, with all my Disk Drives in a NAS _like a fucking animal._
 
 ### Download more RAM
 
