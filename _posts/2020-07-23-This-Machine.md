@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This Machine"
-description: Nazi lives don't matter.
+description: This LAN is your LAN...
 tags: hardware
 ---
 
@@ -68,7 +68,7 @@ A layer of [thermal paste](../../../assets/images/RWB/compounding.jpg) conducts 
 
 ### PSU, RAM, NVME M.2, SATA, SSDs, ALL, CAPS, ACRONYMS.
 
-I've removed my "Cold Storage" 7200 RPM Disk Drives. I've pressed on into the future to remove SATA SSDs. ~~I promise I'll come back for you.~~ 
+I've removed my "Cold Storage" 7200 RPM Disk Drives. I've pressed on into the future to remove SATA SSDs. ~~I promise I'll come back for you.~~
 
 I was really critical of this idea, when looking over a friend's final draft for hardware. Then I realized it was a good idea and I was wrong. I'm not sure how I'll ever recover.
 
