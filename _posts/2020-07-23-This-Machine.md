@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Redwheelbarrow"
-description: Confidence is Quiet.
+title:  "This Machine"
+description: Nazi lives don't matter.
 tags: hardware
 ---
 
