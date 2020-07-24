@@ -1,22 +1,51 @@
 ---
 layout: post
-title:  "Introductions"
-description: Hello world
-tags: Welcome 
+title:  "init-1"
+description: $whoami
+tags: init-1
 ---
 
-Computer Networks are complicated. Securing them is often more complicated.
+![hank](../../../assets/images/Misc/hank_blog.png)
 
-The focus of this guide *is not* to provide an irrefutable workflow to be "secure."
+# Felt cute; might delete l8r 💁‍♀️
+This site started in one direction and quickly became exhausting.
 
-The focus of this guide *is not* to follow every single word to the letter.
+It's still in the [commit history](https://gitlab.com/matrix8967/text-mainframe-computer/-/tree/8a74263efe8de6a24ae5286416e7011473ca6cf5) and could be resurrected or expanded later. 🤷
 
-The focus of this guide *is* to provide a quick reference for beginners (and forgetful old-hats) with ways they can improve their day-to-day security posture.
+I still have a lot of content from an old site that focused on providing actionable ways for people to do some digital self-care.
 
-For example an Administrative Assistant may require a different set of tools for handling secure documents compared to a political activist.
+No idea if it'll ever see the light of day.
 
-* If you're brand new - I would recommend familiarizing yourself with a few `Terms` that will make reading these guides and blog posts a little easier.
+I need a more general braindump instead of a hyper-focused and niche subject matter that asks a lot.
 
-* If you feel firm on your feet with the jargon, feel free to browse around in any order.  
+I always spend a lot of time creating these static content sites, and then silently delete them.
 
-I'm doing my best to make each guide self-contained, immediately actionable, and bite-sized. Assuming no knowledge on the reader's behalf outside of terms, which will be in the linked reference page.
+Usually out of embarrassment that I've expressed some kind of genuine emotions in such a public manor.
+
+_How embarrassing._
+
+It's just _disgusting._
+
+With that said - I am hoping to provide a bit of levity to in approaching technical subjects.
+
+Balance expressing an honest, human, introspective voice without it devolving into hammered horse shit.
+
+I also understand how foolish it is to be so _sentimental_ about things like consumer electronics manufactured under dubious conditions.
+
+# Ads, Tracking, Cookies, and Privacy Policy
+
+> fucking lol, could you imagine?
+
+--
+
+No ads, or tracking, viewer counts, affiliate links or whatever.
+
+That shit exists to upset you because _happy people don't buy shit._
+
+This is kind of a lust letter to the _weird_ and _dynamic_ internet I grew up with.
+
+Just some nobody, an internet connection, and pure unadulterated ~~garbage~~ text files baby.
+
+--
+
+Should be a fuckin' cringe-fest so smash that mf like button and le'go.

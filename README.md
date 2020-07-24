@@ -1,3 +1,3 @@
 # text-mainframe-computer
 
-Words about computers.
+Words about really big calculators.

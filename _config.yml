@@ -1,11 +1,11 @@
-title: text.mainframe.computer
+title: read_me.txt
 author:
 email: hey@mainframe.computer
 description: > # this means to ignore newlines until "show_exerpts:"
-  Thoughts on digital harm-reduction.
-show_excerpts: false # set to true to show excerpts on the homepage
+  This is where I type words about really big calculators and digital harm-reduction.
+show_excerpts: true # set to true to show excerpts on the homepage
 
-paginate: 15
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 tag_permalink_style: pretty
@@ -18,7 +18,7 @@ dash:
   date_format: "%b %-d, %Y"
 
   #disqus:
-    #shortname: bitbrain-github-io
+    #shortname:
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
@@ -26,9 +26,9 @@ dash:
     - url: https://mastodon.social/@matrix8967
       icon: mastodon
       color: cyan
-    # - url: https://matrix8967.itch.io
-    #   icon: itch-io
-    #   color: red
+    - url: https://matrix8967.itch.io
+      icon: itch-io
+      color: red
     - url: https://gitlab.com/matrix8967
       icon: gitlab
       color: purple
