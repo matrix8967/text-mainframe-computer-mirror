@@ -9,7 +9,7 @@ tags: hardware
 
 # This Machine Kills Fascists.
 
-[This Machine](https://en.wikipedia.org/wiki/This_machine_kills_fascists) shows a marked correction back to foundational strengths in the systems I build.
+[This Machine](https://en.wikipedia.org/wiki/This_machine_kills_fascists) represents a return to form.
 
 It's a purpose built design that zeroes in on CPU and GPU performance.
 
@@ -22,7 +22,7 @@ As always, this build enjoys a new set efficiencies over any of my previous syst
 * A Fully Modular PSU.
 * Re-Enforced PCIE Slots so I don't have to improv fixes for [gpu-sagging.](../../../assets/images/RWB/gpusag.jpeg)
 
-(I know this shit is long af, I'm gonna reorganize it I think. Still working on it. Sorry for typos don't `@` me.)
+I'll post about the software later, but here's a [snack.](../../../assets/images/RWB/shellbie.png) (cpu temp is wrong, promise.)
 
 # Ship of Theseus.
 
@@ -66,11 +66,11 @@ A layer of [thermal paste](../../../assets/images/RWB/compounding.jpg) conducts 
 
 [Sorta like this.](../../../assets/images/RWB/whoosh.png)
 
-### PSU, RAM, NVME M.2, SATA, SSDs, ALL, CAPS, ACRONYMS.
+### How could you be _so controversial_ yet _so brave_?
 
-I've removed my "Cold Storage" 7200 RPM Disk Drives. I've pressed on into the future to remove SATA SSDs. ~~I promise I'll come back for you.~~
+I've removed my "Cold Storage" 7200 RPM Disk Drives. I've also pressed on into the future to remove SATA SSDs. ~~I promise I'll come back for you.~~
 
-I was really critical of this idea, when looking over a friend's final draft for hardware. Then I realized it was a good idea and I was wrong. I'm not sure how I'll ever recover.
+I was really critical of this idea, while looking over a friend's final draft for hardware. Then I realized it was a good idea and I was wrong. I'm not sure how I'll ever recover.
 
 Here I am, looking like a _horse's ass_, with all my Disk Drives in a NAS _like a fucking animal._
 
@@ -127,5 +127,11 @@ I remembered how I'd spent a _lifetime_ ignoring time and making sure that thing
 I've received plenty of (genuine) constructive criticism about my work not adhering to a manufactured deadline. During one of these reviews, I was told something that really re-framed how I approach problems:
 
 > "You should have been a watch maker."
+
+--
+
+Oh shit, wait, maybe was that just a really passive aggressive hint.
+
+Damn dude.
 
 --
