@@ -22,7 +22,7 @@ As always, this build enjoys a new set efficiencies over any of my previous syst
 * A Fully Modular PSU.
 * Re-Enforced PCIE Slots so I don't have to improv fixes for [gpu-sagging.](../../../assets/images/RWB/gpusag.jpeg)
 
-I'll post about the software later, but here's a [snack.](../../../assets/images/RWB/shellbie.png) (cpu temp is wrong, promise.)
+I'll post about the software later, but here's a [snack.](../../../assets/images/RWB/shellbie.png)
 
 # Ship of Theseus.
 
