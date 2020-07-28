@@ -51,9 +51,11 @@ The price was hard to swallow at first, but went down easier with more research.
 
 ![cooler](../../../assets/images/RWB/cooler.jpg)
 
-Moving on with thermals: I went back to Air Cooling from the Closed Loop Liquid Cooler used in the previous design. It didn't have any problems, and performance was consistently 👌. However, I like to plan things to fail intelligently and gracefully, so when considering "...Not IF it fails, but WHEN it fails" air cooling seemed to be a better direction.
+Moving on with thermals: I moved back to Air Cooling from the Closed Loop Liquid Cooling I used in my previous design. Performance was consistently 👌 and I didn't have any issues.
 
-I've always avoided the term `Water Cooling` in favor of `Liquid Cooling`. Fluids in these systems are a *thermally-conductive* mineral oil that isn't *electrically-conductive.* ~~If~~ When a hose or seal leaks - this helps to minimize damage.
+However, if it weren't for bad luck, I'd have no luck at all. So I try to plan for things to fail intelligently and gracefully.
+
+Fluids in these systems are a *thermally-conductive* mineral oil that isn't *electrically-conductive.* ~~If~~ When a hose or seal leaks - this helps to minimize damage.
 
 However, this is still what experts call _"pretty fuckin' bad"_ and I would rather move these issues to less mission critical systems. I'll likely revisit liquid cooling in the future.
 
@@ -73,11 +75,11 @@ Maybe confidence is a little _too_ quiet here, as I've actually had a hard time 
 
 ### No SATA? How could you be _so controversial yet so brave_?
 
-I've removed my "Cold Storage" 7200 RPM Disk Drives. I've also pressed on into the future to remove SATA SSDs. ~~I promise I'll come back for you.~~
+I've removed my "Cold Storage" 7200 RPM Disk Drives. I've also pressed farther into the future and removed SATA SSDs. ~~I promise I'll come back for you.~~
 
-While looking over a friend's final draft for hardware, they'd opted for this approach. I was _vehimetly_ critical. Then I realized it was a good idea and I was wrong. I'm not sure how I'll ever recover.
+While looking over a friend's final draft for hardware, I _vehimetly_ rejected this idea. Then I realized it was a good idea and I was wrong. I'm not sure how I'll ever recover.
 
-Here I am, looking like a _horse's ass_, with all my Disk Drives in a NAS _like a fucking animal._
+However, my storage has just been moved into a NAS, rather than discarded all together. This is a 1990's Barbie Organ-Bag situation I guess.
 
 A `tldr` for `m.2 NVMe` - storage devices slot straight into the motherboard and use the faster `PCIe` bus, instead of the usual `SATA` bus. It's a very honest name. Not great. But at least it's specific. Here's a really blown out [shitty picture](../../../assets/images/RWB/nvme.jpeg) of my OS Drive.
 
@@ -91,24 +93,34 @@ A _fully_ modular 750W PSU is more house cleaning and making the most of my spac
 
 ### Mama Bear ʕっ•ᴥ•ʔっ
 
-ASUS TUF X570 was chosen considering AMD's vague language and [less than forthcoming](../../../assets/images/RWB/chipset.png) marketing about compatibility with new Gen 3 Ryzen CPUs.
+ASUS TUF X570 was chosen considering AMD's vague language and [less than forthcoming](../../../assets/images/RWB/chipset.png) marketing about compatibility with new Gen 3 Zen Architecture. (Not to be confused with the current Ryzen 3XXX generation of Ryzen CPUs.)
 
-This was the most feature rich Motherboard with the `X570` Chipset which should be pretty tolerant moving forward. I'm hoping to dig into an Audio Issue in the Linux Kernel LTS affecting this chipset's Audio.
+This was the most feature rich Motherboard with the `X570` Chipset, which should be pretty tolerant moving forward. I'm hoping to dig into an Audio Issue in the Linux Kernel LTS affecting this chipset's Audio.
 
 ### "A deal at twice the price!" -Faust
 
 ![gpu](../../../assets/images/RWB/the_debbil.jpg)
 
-
 AMD Radeon 5700XT GPU is an attention-commanding center piece here.
 
-This is the component I spent the most time wallowing about. The reasons for choosing this GPU have carried on in my mind since before I began planning the 2017 build. Budgets, timing, and the bitcoin boom kept me on my Nvidia GTX 1080. After 3 years of back-and-forth I decided to shoot my shot. The specific variant of this card was chosen due to it's aggressive thermal performance compared to other models of the same card.
+This is the component I spent the most time wallowing about in my mind. The logistical reasons for choosing this GPU have carried on in my mind since before I began planning the 2017 build. Budgets, timing, and the bitcoin boom kept me on my Nvidia GTX 1080 which I'd gotten for a song. 
 
-I would be liar if I said the aggressive design wasn't also a contributing factor.
+After ~3 years of back-and-forth I decided to shoot my shot. I've eyed PowerColor's RedDevil series because of their chart-topping thermal performance which often beats out meme-worthy-shit-posting cards like the `THICC`. I would also be _fucking liar_ if I said the aggressive design wasn't a contributing factor.
 
 I'm a slave to appearances.
 
-But the primary draw was to remove myself from Nvidia's Closed Source Prop drivers and reward one of AMD's biggest engineering strides: Pushing their Linux Graphics Drivers directly into the Linux Kernel - ensuring all linux distros booting a modern kernel will have full GPU support out of the box.
+The primary goal has been to remove myself from Nvidia's Closed Source Proprietary Drivers and reward one of AMD's best engineering strides: Pushing their Linux Graphics Drivers directly into the Linux Kernel Firmware Tree. This ensures any Linux Distro booting a modern kernel will have full GPU support out of the box.
+
+Linux as a first-class citizen. 
+
+Finally! The Year of the Linux Desktop! `/s`
+
+```sh
+#!/bin/bash
+
+year=$(date +%Y)
+echo -e "${year} is the year of the linux desktop!"
+```
 
 ### Big Brain Time
 
@@ -118,7 +130,14 @@ Finally we land at the CPU - an AMD Ryzen 2700X. This was the first component th
 
 On paper this was a modest spec-bump to the 1700X it replaced. But prices bottomed the absolute fuck out and this fixed some early-adoption kinks found in 1st Gen Ryzen chips.
 
-Planning ahead was already paying off as I was able to use it as a direct drop-in replacement.
+Planning ahead was already paying off as I was able to use it as a direct drop-in replacement. At the time of writing, this chip is not new. But it's a great spot to lay and wait for the future Zen 3 chips to stabilize.
 
 An 8-core, 16 thread fucking _beef bus_ for well under $300 bones. What a muther honking value dude.
 
+# All that to say:
+
+I bought a bunch of shit. Then I put it together like legos and felt a false sense of accomplishment. 
+
+You can read my embarrassing human thoughts about it [here.](/2020/07/27/Zen-Art.html)
+
+This puts me in a unique position for hardware, and I plan on going back through my old builds, documenting them, and talking _absolute mad shit_ about some of the things I did. And when I build a new machine, I will do the same for this build and cringe at what I thought was so great.
