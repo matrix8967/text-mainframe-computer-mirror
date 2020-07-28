@@ -2,7 +2,7 @@ title: read_me.txt
 author:
 email: hey@mainframe.computer
 description: > # this means to ignore newlines until "show_exerpts:"
-  This is where I type words about really big calculators and digital harm-reduction.
+  This is where I type words about big calculators and digital harm-reduction.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 paginate: 5

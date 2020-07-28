@@ -2,24 +2,23 @@
 layout: post
 title:  "This Machine"
 description: This LAN is your LAN...
-tags: hardware
+tags: desktop hardware
 ---
 
 ![RedWheelbarrow](../../../assets/images/RWB/RWB01.jpg)
 
 # This Machine Kills Fascists.
 
-[This Machine](https://en.wikipedia.org/wiki/This_machine_kills_fascists) represents a return to form.
+[This Machine](https://en.wikipedia.org/wiki/This_machine_kills_fascists) is a return to my "Confidence is Quiet" roots.
 
-It's a purpose built design that zeroes in on CPU and GPU performance.
+It's a machine that's not trying _so hard_ to show it's sophistication.
 
 As always, this build enjoys a new set efficiencies over any of my previous systems:
 
-* 100% Linux. No more dual-booting into an adware ridden shithole for games.
+* 100% Linux. No more dual-booting into an adware shithole for games.
 * No SATA allowed - ride or die for NVMe m.2.
 * No Moving Parts (Except Fans.)
 * All Fans are now PWM / Thermal Scaled on a Fan Curve.
-* A Fully Modular PSU.
 * Re-Enforced PCIE Slots so I don't have to improv fixes for [gpu-sagging.](../../../assets/images/RWB/gpusag.jpeg)
 
 I'll post about the software later, but here's a [snack.](../../../assets/images/RWB/shellbie.png)
@@ -36,7 +35,7 @@ In 2019, I began to rethink some of the choices I'd made ~~in life~~ for my hard
 
 NZXT's H510 Case seemed too good to be true on paper. Especially for it's modest price point (~$70USD.) However this case exceeds at almost every turn.
 
-I'd seen this case show up in a million "Battlestation" Threads in forums - but nobody explicitly drew attention to it. For such a striking appearance, very little is usually said.
+I'd seen this case show up in a million "Battlestation" Threads - but nobody explicitly drew attention to it. For such a striking appearance, very little is usually said. The utter failure of my previous corsair case was a huge drive to nail down some of the final components of this build.
 
 Every piece of this case has a simple and well performing function. It's a few cubic inches smaller than my previous case(s). Without a doubt the space it occupies is maximized in purpose.
 
@@ -70,29 +69,36 @@ A layer of [thermal paste](../../../assets/images/RWB/compounding.jpg) conducts 
 
 The name of the game is to move heat *away* from the CPU and get it out of the case. For the first time every fan in the entire system is working on a "Fan Curve" which is to say each fan (even PSU, GPU Fans) speed is dependent on temperature. Idle temps mean the case and CPU fans lumber alone at leisurely `>400rpm` rate, while GPU and PSU fans don't engage at all.
 
+Maybe confidence is a little _too_ quiet here, as I've actually had a hard time sleeping without the steady hum of case fans to occupy my lizard brain...
+
 ### No SATA? How could you be _so controversial yet so brave_?
 
 I've removed my "Cold Storage" 7200 RPM Disk Drives. I've also pressed on into the future to remove SATA SSDs. ~~I promise I'll come back for you.~~
 
-I was really critical of this idea, while looking over a friend's final draft for hardware. Then I realized it was a good idea and I was wrong. I'm not sure how I'll ever recover.
+While looking over a friend's final draft for hardware, they'd opted for this approach. I was _vehimetly_ critical. Then I realized it was a good idea and I was wrong. I'm not sure how I'll ever recover.
 
 Here I am, looking like a _horse's ass_, with all my Disk Drives in a NAS _like a fucking animal._
 
+A `tldr` for `m.2 NVMe` - storage devices slot straight into the motherboard and use the faster `PCIe` bus, instead of the usual `SATA` bus. It's a very honest name. Not great. But at least it's specific. Here's a really blown out [shitty picture](../../../assets/images/RWB/nvme.jpeg) of my OS Drive.
+
 ### Download more RAM
 
-32GB of Corsair RAM OC'd to `3600MHz` leaves 2 DIMM slots unoccupied. This helps thermals and allows for easy future upgrades. I may move from Corsair Vengeance RAM back to my _first love_: GSkill RipJaws. RipJaws Heat Spreaders are shaped to be less intrusive to larger CPU Heatsinks.
+32GB of Corsair RAM OC'd to `3600MHz` leaves 2 DIMM slots unoccupied. This helps thermals and allows for easy future upgrades. I may move from Corsair Vengeance RAM back to my _first love_: GSkill RipJaws as their Heat Spreaders are shaped to be less intrusive to larger CPU Heatsinks.
 
 ### Gas me tf up
 
-A fully modular 750W PSU is house cleaning and making the most of my space. This also opens up options for custom length cables later on.
+A _fully_ modular 750W PSU is more house cleaning and making the most of my space. This also opens up options for custom length cables later on.
 
 ### Mama Bear ʕっ•ᴥ•ʔっ
 
-ASUS TUF X570 was chosen considering AMD's vague language and _less than forthcoming_ marketing about compatibility with new Gen 3 Ryzen CPUs.
+ASUS TUF X570 was chosen considering AMD's vague language and [less than forthcoming](../../../assets/images/RWB/chipset.png) marketing about compatibility with new Gen 3 Ryzen CPUs.
 
 This was the most feature rich Motherboard with the `X570` Chipset which should be pretty tolerant moving forward. I'm hoping to dig into an Audio Issue in the Linux Kernel LTS affecting this chipset's Audio.
 
 ### "A deal at twice the price!" -Faust
+
+![gpu](../../../assets/images/RWB/the_debbil.jpg)
+
 
 AMD Radeon 5700XT GPU is an attention-commanding center piece here.
 
@@ -106,38 +112,13 @@ But the primary draw was to remove myself from Nvidia's Closed Source Prop drive
 
 ### Big Brain Time
 
-Finally we land at the CPU - an AMD Ryzen 2700X. This was the first component that kick-started the full rebuild.
+![cpu](../../../assets/images/RWB/cpu_glam.jpg)
 
-On paper this was a modest spec-bump compared to the 1700X it was replacing. But prices bottomed the absolute fuck out and this fixes some early-adoption kinks in my 1700X.
+Finally we land at the CPU - an AMD Ryzen 2700X. This was the first component that kick-started the full rebuild almost a year ago.
 
-Planning Ahead was already paying off since I was able to use it as a direct drop-in replacement.
+On paper this was a modest spec-bump to the 1700X it replaced. But prices bottomed the absolute fuck out and this fixed some early-adoption kinks found in 1st Gen Ryzen chips.
+
+Planning ahead was already paying off as I was able to use it as a direct drop-in replacement.
 
 An 8-core, 16 thread fucking _beef bus_ for well under $300 bones. What a muther honking value dude.
 
-# The Zen Art of Hardware Maintenance
-
-_Hey sport, let's get serious for a sec._
-
-While I was finishing the cable management I stopped to reflect how this reignited a passion that I worried might have been lost. I was able to do something I've not been able to do in a long time: `I was able to slow down.` I could consider the *best* ways to approach problems. I was able to experiment, measure, and re-evaluate.
-
-I'd forgotten what it was like to _enjoy_ this kind of work. I had started to doubt myself as an engineer. But I found a long-forgotten peace in the small acts of routing cables, cinching zip ties, and tightening screws.
-
-I got lost in a vacuum of muted reflection as I thought about heat, airflow, and tension.
-
-I rediscovered my _mind of metal and wheels_.
-
-I realized how each of these machines I've built were time capsules showing who I was when I made them.
-
-I remembered how I'd spent a _lifetime_ ignoring time and making sure that things were done _once_ and were done _right_. Time is the only constant in the known universe. It is unyielding and relentless. It makes fools of us all. So I asked myself: "Why am I in such a fucking hurry?"
-
-I've received plenty of (genuine) constructive criticism about my work not adhering to a manufactured deadline. During one of these reviews, I was told something that really re-framed how I approach problems:
-
-> "You should have been a watch maker."
-
---
-
-Oh shit, wait, maybe was that just a really passive aggressive hint.
-
-Damn dude.
-
---
