@@ -29,6 +29,8 @@ Something that made this much easier was replacing components slowly over time, 
 
 ![Glitch](../../../assets/images/Glitch/Glitch.jpg)
 
+_Started from the bleeding edge of 2017_ now we here. ☝️
+
 In 2019, I began to rethink some of the choices I'd made ~~in life~~ for my hardware. The `tldr` is: I adopted some new methods in how I designed my systems. Some of these worked out well - some of them did not.
 
 ### What's in the box!?
@@ -58,6 +60,8 @@ However, if it weren't for bad luck, I'd have no luck at all. So I try to plan f
 Fluids in these systems are a *thermally-conductive* mineral oil that isn't *electrically-conductive.* ~~If~~ When a hose or seal leaks - this helps to minimize damage.
 
 However, this is still what experts call _"pretty fuckin' bad"_ and I would rather move these issues to less mission critical systems. I'll likely revisit liquid cooling in the future.
+
+I go into more [details in this post](/2020/09/14/thermals.html)
 
 ### No SATA? How could you be _so controversial yet so brave_?
 
