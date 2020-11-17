@@ -29,19 +29,19 @@ If there's _one_ name I trust for a proven record of reliable hardware and softw
 
 The new CPU is the final piece in the puzzle for Apple's Authoritarian Control over their Walled Garden.
 
-They now make every single piece of the Hardware _and_ the Software. Apple controls `Code Execution` _more_ than they already have.
+They now make every single piece of the Hardware _and_ the Software. Apple finally controls the entire flow `Code Execution` _more_ than they ever have.
 
 > Apple Computers _will always_ obey Apple, before they obey _any_ other instruction.
 
 While there's a meme-worthy list of public controversies that point to absolute mallice, why would they ever want to change?
 
-In August 2018, Apple became the first US Company to be evaluated at `$1 Billion`. A mere _2 years_ later, they were the first company to be evaluated at `$2 Billion`.
+In August 2018, Apple became the first US Company to be evaluated at `$1 Billion`. Just _2 years_ later, they were the first company to be evaluated at `$2 Billion`.
 
 If you need a quick refresher, here's[^1] a mix tape I put together of some of their finest work.
 
 So if that's how Apple treats it's ~~Serfs~~ _Customers_ ...
 
-# A Predator Posing as a House Pet
+# Banality of Evil
 
 Every interaction from Apple should be treated as sleight of hand. One hand spins the tale of Privacy, while the other sends buckets of user information to the NSA as part of the [PRISM](https://en.wikipedia.org/wiki/Criticism_of_Apple_Inc.#Collaboration_with_the_National_Security_Agency) spying program.
 
@@ -53,13 +53,16 @@ This server outage meant that MacOS couldn't "Phone Home" for to Apple, and then
 
 MacOS Big Sur and Apple's M1 Chip _finally_ remove the thin and tattered veil of alturism.
 
-While _EVERY_ Consumer Electronics Company has a hand in the never-ending human righs violations of the PRC, Apple is in a unique position to make meaningful change.
+While _EVERY_ Consumer Electronics Company has a hand in the never-ending human rights violations of the PRC, Apple is in a unique position to make meaningful change.
 
-Every red cent of profit Apple makes while continuing to ignore China's Human Rights Violations...sadly means _nothing_ to them. I wish I had a more impactful statement. Controling the supply chain domestically would make mid-range hardware from 2014 cost $2,000. Even though I'm personally very excited to [dive into this exact kind](https://shop.puri.sm/shop/librem-5-usa/) of thing.
+Every red cent of profit Apple makes while continuing to ignore China's Human Rights Violations...sadly means _nothing_ to them. I wish I had a more impactful statement.
 
-The fight for Hong Kong was a major fight for the Free World. And when we relied on Apple the most, they revealed themselves to be nothing more than spineless lapdogs bowing to Authoritarianism by censoring Apps on behalf of Xi Jiin Ping.
+The fight for Hong Kong was a major fight for the Free World. And when we needed Apple the most, they revealed themselves to be spineless lapdogs bowing to Authoritarianism by censoring Apps on behalf of Xi Jiin Ping.
 
-# I'm sad. I hate this.
+Controling the supply chain domestically would make mid-range hardware from 2014 cost $2,000. Even though I'm personally very excited to [dive into this exact kind](https://shop.puri.sm/shop/librem-5-usa/) of thing.
+
+
+# "I'm sad. I hate this."
 
 Same.
 
@@ -93,12 +96,12 @@ Who Watches the Watchmen? [The EFF.](https://eff.org/donate) That's who.
 
 [^1]:
 
-*   [Those shitty butterfly keys.](https://www.theverge.com/2020/5/4/21246223/macbook-keyboard-butterfly-magic-pro-apple-design)
 *   [A set of $700 casters to roll around your mac pro.](https://www.theverge.com/2020/4/15/21222310/apple-mac-pro-feet-wheels-kits-stainless-steel-price-delivery)
 *   [A set of $300 feet to stop your mac pro from rolling around.](https://www.apple.com/shop/product/MXNM2ZM/A/apple-mac-pro-feet-kit)
 *   [A $999 Monitor Stand.](https://www.engadget.com/2019-06-04-apple-pro-display-xdr-stand.html)
 *   [A $200 adapter to use a VESA Mount.](https://www.apple.com/shop/product/MWUF2LL/A/vesa-mount-adapter)
-*   [That time Steve Jobs told everyone they were just holding their phones wrong](https://www.businessinsider.com/apple-antennagate-scandal-timeline-10-year-anniversary-2020-7)
+*   [Those shitty butterfly keys.](https://www.theverge.com/2020/5/4/21246223/macbook-keyboard-butterfly-magic-pro-apple-design)
+*   [That time Steve Jobs told everyone they were just holding their phones wrong.](https://www.businessinsider.com/apple-antennagate-scandal-timeline-10-year-anniversary-2020-7)
 *   [root password bug for the MacOS High-Sierra launch.](https://www.macrumors.com/2017/11/28/macos-high-sierra-bug-admin-access/)
 *   [Staingate](https://en.wikipedia.org/wiki/Staingate)
 *   [Flexgate](https://www.theverge.com/2019/3/19/18271733/flexgate-display-problem-macbook-pro-apple)
