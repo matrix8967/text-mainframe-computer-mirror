@@ -2,7 +2,7 @@
 layout: post
 title:  "The Fall of the House of Mac."
 description: Hardware as a really shitty service.
-tags: Apple
+tags: hardware
 ---
 
 When I was young, I remember my grandmother quietly smirking to herself while looking at a newspaper.
@@ -41,7 +41,7 @@ If you need a quick refresher, here's[^1] a mix tape I put together of some of t
 
 So if that's how Apple treats it's ~~Serfs~~ _Customers_ ...
 
-# A Predator Posting as a House Pet
+# A Predator Posing as a House Pet
 
 Every interaction from Apple should be treated as sleight of hand. One hand spins the tale of Privacy, while the other sends buckets of user information to the NSA as part of the [PRISM](https://en.wikipedia.org/wiki/Criticism_of_Apple_Inc.#Collaboration_with_the_National_Security_Agency) spying program.
 
@@ -71,13 +71,13 @@ Trying to convince Apple Cultists to stop denying their experiences is a _fruitl
 (⌐■_■)
 ```
 
-All I can do with the time that I have is to work tirelessly to make things better than I found them for people I love.
+All I can do with the time I have is work tirelessly to make things better for people I love.
 
-Look out for the one's who are looking out for you.
+Nobody said the good fight would be easy. Look out for the ones who are looking out for you.
 
 My favorite VPN [Mullvad](https://mullvad.net/en/blog/2020/11/16/big-no-big-sur-mullvad-disallows-apple-apps-bypass-firewall/) has already issued a statement regarding steps they've taken to mitigate [Apple's new VPN Bypass Mechanisms.](https://thenextweb.com/plugged/2020/11/16/apple-apps-on-big-sur-bypass-firewalls-vpns-analysis-macos/)
 
-[System76](https://opensource.com/article/18/4/system76-us-manufacturing-plant) is the only Hardware Manufactorer assembling in the United States. [Huge fan.](https://mastodon.social/@matrix8967/104379093685416474)
+[System76](https://opensource.com/article/18/4/system76-us-manufacturing-plant) is the only Hardware Manufactorer assembling in the United States. [I'm a Huge fan.](https://mastodon.social/@matrix8967/104379093685416474)
 
 [The FairPhone](https://www.fairphone.com/en/) is a mobile device focusing on ethical and sustainable hardware.
 
@@ -93,12 +93,12 @@ Who Watches the Watchmen? [The EFF.](https://eff.org/donate) That's who.
 
 [^1]:
 
-*   [Those shitty butterfly keys](https://www.theverge.com/2020/5/4/21246223/macbook-keyboard-butterfly-magic-pro-apple-design)
-*   [root password bug for the MacOS High-Sierra launch.](https://www.macrumors.com/2017/11/28/macos-high-sierra-bug-admin-access/)
-*   [A $999 Monitor Stand](https://www.engadget.com/2019-06-04-apple-pro-display-xdr-stand.html)
-*   [A $200 adapter to use a VESA Mount.](https://www.apple.com/shop/product/MWUF2LL/A/vesa-mount-adapter)
+*   [Those shitty butterfly keys.](https://www.theverge.com/2020/5/4/21246223/macbook-keyboard-butterfly-magic-pro-apple-design)
 *   [A set of $700 casters to roll around your mac pro.](https://www.theverge.com/2020/4/15/21222310/apple-mac-pro-feet-wheels-kits-stainless-steel-price-delivery)
 *   [A set of $300 feet to stop your mac pro from rolling around.](https://www.apple.com/shop/product/MXNM2ZM/A/apple-mac-pro-feet-kit)
+*   [A $999 Monitor Stand.](https://www.engadget.com/2019-06-04-apple-pro-display-xdr-stand.html)
+*   [A $200 adapter to use a VESA Mount.](https://www.apple.com/shop/product/MWUF2LL/A/vesa-mount-adapter)
 *   [That time Steve Jobs told everyone they were just holding their phones wrong](https://www.businessinsider.com/apple-antennagate-scandal-timeline-10-year-anniversary-2020-7)
+*   [root password bug for the MacOS High-Sierra launch.](https://www.macrumors.com/2017/11/28/macos-high-sierra-bug-admin-access/)
 *   [Staingate](https://en.wikipedia.org/wiki/Staingate)
 *   [Flexgate](https://www.theverge.com/2019/3/19/18271733/flexgate-display-problem-macbook-pro-apple)
