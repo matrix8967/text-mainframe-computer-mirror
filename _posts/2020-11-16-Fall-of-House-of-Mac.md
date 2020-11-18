@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall of the House of M."
-description: Big Karen Energy.
+description: Can't handle my big Karen energy.
 tags: hardware
 ---
 
