@@ -9,7 +9,7 @@ tags: hardware
 
 15 Years ago Apple moved away from the `PowerPC` chips they had used since 1994 and joined the rest of the computational world under the `x86` umbrella. In 2020, Apple is changing CPU types again, this time from `x86` to `ARM` based CPUs.
 
-To summarize the difference between `x86` and `ARM` architecture: `x86` is a Cross Country runner, built for sustained torture tests. `ARM` CPUs are sprinters that thrive under short bursty workloads.
+To summarize the difference between `x86` and `ARM` architecture: `x86` is a Cross Country runner, built for sustained torture tests. `ARM` CPUs are Sprinters that thrive under short bursty workloads.
 
 Apple is teasing some impressive numbers. _Most users_ in the Apple Ecosystem will only benefit from this change.
 
@@ -53,6 +53,8 @@ I'm glad Apple has been _transparent_ about the information they're collecting.
 
 Apple is being _so transparent,_ that they're not even encrypting this telemetry. They're sending it plain text out of your macbook, across the internet to the nearest CDN so that _everyone_ between you and the server can see what apps you're using by opening `wireshark` or `tcpdump`.
 
+I speculate that Apple's mad dash to seal the doors to their ecosystem was rapidly accelerated by the latest of their many [public slap fights](https://www.theverge.com/2020/8/13/21367923/fortnite-apple-app-store-epic-games-need-to-know) with another company.
+
 # The Banality of Evil
 
 While _EVERY_ Consumer Electronics Company has a hand in the staggering human rights violations of the People's Republic of China; Apple is in a unique position to make meaningful changes.
@@ -61,11 +63,15 @@ But during the fight for Hong Kong, when we needed Apple the most they revealed 
 
 Controlling the supply chain domestically makes mid-range hardware from 2014 cost $2,000. While I'm personally very excited to [dive into this exact kind](https://shop.puri.sm/shop/librem-5-usa/) of thing, it's basically like taking food _right out of Tim Cook's mouth._
 
-# This sucks.
+# This sucks, now I'm sad.
 
 Yeah. I'm not a lot of fun at parties. 😕
 
-And talking about this stuff with Apple Fans is always..._fruitless_.
+I'm just old and grumpy. This kind of stuff was never going to affect me, because I don't use computers in a way that's made me need Apple.
+
+Besides, I'm a fan of Software Freedom, not Software Do-It-My-Way-or-Fuck-You.
+
+Trying to convince someone to uproot their entire digital-self and migrate is kinda..._fruitless_.
 
 ```
 •_•)
@@ -73,7 +79,7 @@ And talking about this stuff with Apple Fans is always..._fruitless_.
 (⌐■_■)
 ```
 
-All I can do with the time I have is work to make things better for people I love.
+All I can do with the time I have is work hard to make things better for people I love.
 
 Nobody said the good fight would be easy.
 
@@ -102,10 +108,6 @@ Thanks for suffering through my mind-sludge while you're stuck on the toilet or 
 When I was young, I remember my grandmother quietly smirking to herself while looking at a newspaper.
 
 > "I'll never understand the logo for Apple Computers. The computers are called Macintosh, but their logo is a Red Delecious."
-
-What a great distillation of Apple.
-
-Sure, it's pretty. But it's wrong.
 
 -----
 
