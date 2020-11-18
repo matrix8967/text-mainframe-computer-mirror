@@ -1,72 +1,71 @@
 ---
 layout: post
-title:  "The Fall of the House of Mac."
-description: Hardware as a really shitty service.
+title:  "Fall of the House of M."
+description: Gonna write a strongly worded letter. That'll fix it.
 tags: hardware
 ---
 
-When I was young, I remember my grandmother quietly smirking to herself while looking at a newspaper.
-
-> "I'll never understand the logo for Apple Computers. The computers are called Macintosh. But the logo is a Red Delecious."
-
-What a great distillation of Apple Computers: It's pretty. But it's wrong.
-
 # Hey, what's going on?
 
-15 Years ago Apple moved away from the `PowerPC` chips they had used since 1994 and joined the rest of the computational world under the `x86` umbrella. Once again, Apple is changing CPU types, this time from `x86` to `ARM` based CPUs. Instead of limiting the `ARM` CPUs to their iPad/iPhones, they're removing the `x86` chips from the Macbook Pro all together and aggresively replacing them with a newly developed variant of the CPU they use in their iOS devices.
+15 Years ago Apple moved away from the `PowerPC` chips they had used since 1994 and joined the rest of the computational world under the `x86` umbrella. In 2020, Apple is changing CPU types again, this time from `x86` to `ARM` based CPUs.
 
-The numbers Apple is claiming seem to be impressive performance out of an ARM Chip. Most user's workloads will be unaffected by this as the world continues to move towards an `IOT` Connected World.
+To summarize the difference between `x86` and `ARM` architecture: `x86` is a Cross Country runner, built for sustained torture tests. `ARM` CPUs are sprinters that thrive under short bursty workloads.
+
+Apple is teasing some impressive numbers. _Most users_ in the Apple Ecosystem will only benefit from this change.
 
 _However..._
 
-Even _if_ the claims of performance gains are true -- A change this big will have ramifications that will be felt for quite some time.
+Even if the performance gains are true -- A change this big will have ramifications that will be felt for quite some time.
 
-Apple _says_ that any side effects of this imprompteu head transplant will be remedied by none other than it's own compatibility solution.
+I'm suspicious of it's performance over long durations like Code Compilation and Media Rendering.
 
-If there's _one_ name I trust for a proven record of reliable hardware and software _it's absolutely not Apple._
+Apple says that any side effects of this brain transplant will be remedied by none other than Apple.
+
+If there's _one_ name I trust for a proven record of reliable hardware and software _it's not Apple._
 
 # Benevolent Dictatorship
 
 The new CPU is the final piece in the puzzle for Apple's Authoritarian Control over their Walled Garden.
 
-They now make every single piece of the Hardware _and_ the Software. Apple finally controls the entire flow `Code Execution` _more_ than they ever have.
+They now make every single piece of the Hardware _and_ the Software. Apple finally controls the entire flow `Code Execution` from toe-to-tip.
 
-> Apple Computers _will always_ obey Apple, before they obey _any_ other instruction.
+> Apple Computers _will always_ obey Apple Inc before obeying _any_ other instruction.
 
-While there's a meme-worthy list of public controversies that point to absolute mallice, why would they ever want to change?
+In August 2018, Apple became the first US Company to be evaluated at `$1 Trillion`. Two years later, they were the first company to be evaluated at `$2 Trillion`.
 
-In August 2018, Apple became the first US Company to be evaluated at `$1 Billion`. Just _2 years_ later, they were the first company to be evaluated at `$2 Billion`.
+A quick look back at some public controversies[^1] shows absolute mallice...But why would they ever want to change?
 
-If you need a quick refresher, here's[^1] a mix tape I put together of some of their finest work.
+And if that's how Apple treats it's ~~Serfs~~ _Customers_ ...
 
-So if that's how Apple treats it's ~~Serfs~~ _Customers_ ...
+# Big Sur...veillance
 
-# Banality of Evil
-
-Every interaction from Apple should be treated as sleight of hand. One hand spins the tale of Privacy, while the other sends buckets of user information to the NSA as part of the [PRISM](https://en.wikipedia.org/wiki/Criticism_of_Apple_Inc.#Collaboration_with_the_National_Security_Agency) spying program.
+Every interaction from Apple should be treated as sleight of hand. One hand spins the tale of a Privacy Champion, the other sends user information to the NSA whole sale as part of the [PRISM](https://en.wikipedia.org/wiki/Criticism_of_Apple_Inc.#Collaboration_with_the_National_Security_Agency) spying program.
 
 In the first half of 2019 they did this over 18,000 times, and another [17,500+ times in the second half of 2019.](https://www.apple.com/legal/transparency/)
 
-The dangers of Centralization were shown in full force when Macbooks across the globe were _unwilling_ to execute 3rd party applications due to an Apple Server Outage.
+The dangers of Centralized Services became woefully apparent on `11-12-20` as [Apple Servers became _slow_ to respond](https://www.theverge.com/2020/11/12/21563092/apple-mac-apps-load-slow-big-sur-downloads-outage-down-issues) to network traffic. Because of this, Macbooks across the globe were unable to launch 3rd party Applications.
 
-This server outage meant that MacOS couldn't "Phone Home" for to Apple, and then stopped the flow of execution. Obviously it's more complicated, but the facts still stand. Code Execution _stopped_ when apps tried, and failed to reach an Apple Server. This turns your `~$3,000` laptop into a `~$3,000` statement piece.
+This turned your `~$3,000` laptop into a `~$3,000` statement piece.
 
-MacOS Big Sur and Apple's M1 Chip _finally_ remove the thin and tattered veil of alturism.
+Turns out, Apple sends a _healthy_ amount of telemetry back to it's own servers. Apple claims 3rd party Apps phoning home before being given permission to launch is in the interest of User's _Security._ 🔐
 
-While _EVERY_ Consumer Electronics Company has a hand in the never-ending human rights violations of the PRC, Apple is in a unique position to make meaningful change.
+I'm glad Apple has been _transparent_ about the information they're collecting.
 
-Every red cent of profit Apple makes while continuing to ignore China's Human Rights Violations...sadly means _nothing_ to them. I wish I had a more impactful statement.
+Apple is being _so transparent,_ that they're not even encrypting this telemetry. They're sending it plain text out of your macbook, across the internet to the nearest CDN so that _everyone_ between you and the server can see what apps you're using by opening `wireshark` or `tcpdump`.
 
-The fight for Hong Kong was a major fight for the Free World. And when we needed Apple the most, they revealed themselves to be spineless lapdogs bowing to Authoritarianism by censoring Apps on behalf of Xi Jiin Ping.
+# The Banality of Evil
 
-Controling the supply chain domestically would make mid-range hardware from 2014 cost $2,000. Even though I'm personally very excited to [dive into this exact kind](https://shop.puri.sm/shop/librem-5-usa/) of thing.
+While _EVERY_ Consumer Electronics Company has a hand in the staggering human rights violations of the People's Republic of China; Apple is in a unique position to make meaningful changes.
 
+But during the fight for Hong Kong, when we needed Apple the most they revealed themselves as spineless lapdogs. Tim Cook bowed to Authoritarianism by censoring Apps at the request of ~~Xi Jinping~~ [Pooh Bear](../../../assets/images/Misc/oh_bother.jpg).
 
-# "I'm sad. I hate this."
+Controlling the supply chain domestically makes mid-range hardware from 2014 cost $2,000. While I'm personally very excited to [dive into this exact kind](https://shop.puri.sm/shop/librem-5-usa/) of thing, it's basically like taking food _right out of Tim Cook's mouth._
 
-Same.
+# This sucks.
 
-Trying to convince Apple Cultists to stop denying their experiences is a _fruitless_ effort.
+Yeah. I'm not a lot of fun at parties. 😕
+
+And talking about this stuff with Apple Fans is always..._fruitless_.
 
 ```
 •_•)
@@ -74,9 +73,11 @@ Trying to convince Apple Cultists to stop denying their experiences is a _fruitl
 (⌐■_■)
 ```
 
-All I can do with the time I have is work tirelessly to make things better for people I love.
+All I can do with the time I have is work to make things better for people I love.
 
-Nobody said the good fight would be easy. Look out for the ones who are looking out for you.
+Nobody said the good fight would be easy.
+
+Vote with your money, and look out for the ones who are looking out for you.
 
 My favorite VPN [Mullvad](https://mullvad.net/en/blog/2020/11/16/big-no-big-sur-mullvad-disallows-apple-apps-bypass-firewall/) has already issued a statement regarding steps they've taken to mitigate [Apple's new VPN Bypass Mechanisms.](https://thenextweb.com/plugged/2020/11/16/apple-apps-on-big-sur-bypass-firewalls-vpns-analysis-macos/)
 
@@ -86,22 +87,35 @@ My favorite VPN [Mullvad](https://mullvad.net/en/blog/2020/11/16/big-no-big-sur-
 
 Who Watches the Watchmen? [The EFF.](https://eff.org/donate) That's who.
 
-[Mozilla](https://mozilla.org/donate) is the last bastion against only viewing the world through the lens of an Advertiser.
+[Mozilla](https://mozilla.org/donate) is the last bastion against viewing the Internet through a Malware browser.
 
-[iFixit](https://www.ifixit.com/Right-to-Repair) is supplying the tools to fight entropy.
+[The TOR Project](https://donate.torproject.org/) is the backbone of some of the most mission critical security and anonyimity software of our life time.
 
-> “The choice for mankind lies between freedom and happiness and for the great bulk of mankind, happiness is better.” ― George Orwell, 1984
+[iFixit](https://www.ifixit.com/Right-to-Repair) is supplying the tools to fight entropy, and standing up for your right to repair.
+
+-----
+
+I'll end by sharing a warm childhood memory.
+
+Thanks for suffering through my mind-sludge while you're stuck on the toilet or something.
+
+When I was young, I remember my grandmother quietly smirking to herself while looking at a newspaper.
+
+> "I'll never understand the logo for Apple Computers. The computers are called Macintosh, but their logo is a Red Delecious."
+
+What a great distillation of Apple.
+
+Sure, it's pretty. But it's wrong.
 
 -----
 
 [^1]:
 
-*   [A set of $700 casters to roll around your mac pro.](https://www.theverge.com/2020/4/15/21222310/apple-mac-pro-feet-wheels-kits-stainless-steel-price-delivery)
-*   [A set of $300 feet to stop your mac pro from rolling around.](https://www.apple.com/shop/product/MXNM2ZM/A/apple-mac-pro-feet-kit)
+*   [A set of $700 casters so you can roll your $60k MacPro around.](https://www.theverge.com/2020/4/15/21222310/apple-mac-pro-feet-wheels-kits-stainless-steel-price-delivery)
+*   [A set of $300 feet to stop your $60k MacPro from rolling around.](https://www.apple.com/shop/product/MXNM2ZM/A/apple-mac-pro-feet-kit)
 *   [A $999 Monitor Stand.](https://www.engadget.com/2019-06-04-apple-pro-display-xdr-stand.html)
-*   [A $200 adapter to use a VESA Mount.](https://www.apple.com/shop/product/MWUF2LL/A/vesa-mount-adapter)
+*   [A $200 adapter to use a regular monitor stand.](https://www.apple.com/shop/product/MWUF2LL/A/vesa-mount-adapter)
 *   [Those shitty butterfly keys.](https://www.theverge.com/2020/5/4/21246223/macbook-keyboard-butterfly-magic-pro-apple-design)
 *   [That time Steve Jobs told everyone they were just holding their phones wrong.](https://www.businessinsider.com/apple-antennagate-scandal-timeline-10-year-anniversary-2020-7)
-*   [root password bug for the MacOS High-Sierra launch.](https://www.macrumors.com/2017/11/28/macos-high-sierra-bug-admin-access/)
 *   [Staingate](https://en.wikipedia.org/wiki/Staingate)
 *   [Flexgate](https://www.theverge.com/2019/3/19/18271733/flexgate-display-problem-macbook-pro-apple)
