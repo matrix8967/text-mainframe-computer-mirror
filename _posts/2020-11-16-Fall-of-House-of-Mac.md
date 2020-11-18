@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fall of the House of M."
-description: Gonna write a strongly worded letter. That'll fix it.
+description: Big Karen Energy.
 tags: hardware
 ---
 
