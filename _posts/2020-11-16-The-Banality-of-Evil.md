@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Banality of Evil."
-description: Some real Karen energy.
+description: (つ•̀ᴥ•́)つ*:･ﾟ✧ radiating karen energy...
 tags: hardware
 ---
 
