@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Fall of the House of M."
-description: Can't handle my big Karen energy.
+title:  "Banality of Evil."
+description: Some real Karen energy.
 tags: hardware
 ---
 
@@ -74,7 +74,7 @@ Besides, I'm a fan of Software Freedom, not Software Do-It-My-Way-or-Fuck-You.
 Trying to convince someone to uproot their entire digital-self and migrate is kinda..._fruitless_.
 
 ```
-•_•)
+( •_•)
 ( •_•)>⌐■-■
 (⌐■_■)
 ```
