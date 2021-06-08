@@ -38,3 +38,7 @@ tags: CLI Terminal How2
 ## Cool work shirt tho.
 
 * * *
+
+<script id="asciicast-rcFyoFOsYc96BR9OSIB0XDHCa" src="https://asciinema.org/a/rcFyoFOsYc96BR9OSIB0XDHCa.js" async data-autoplay="0" data-preload="0" data-t="01" data-loop="1" data-rows="35" data-cols="90"></script>
+
+* * *
