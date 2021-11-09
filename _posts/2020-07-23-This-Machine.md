@@ -5,7 +5,7 @@ description: This LAN is your LAN...
 tags: desktop hardware
 ---
 
-![RedWheelbarrow](../../../assets/images/RWB/RWB01.jpg)
+![RedWheelbarrow](../../../assets/images/RWB/RWB01.jpg){: .modal}
 
 # This Machine Kills Fascists.
 
@@ -93,7 +93,7 @@ This was the most feature rich Motherboard with the `X570` Chipset, which should
 
 AMD Radeon 5700XT GPU is an attention-commanding center piece here.
 
-This is the component I spent the most time wallowing about in my mind. The logistical reasons for choosing this GPU have carried on in my mind since before I began planning the 2017 build. Budgets, timing, and the bitcoin boom kept me on my Nvidia GTX 1080 which I'd gotten for a song. 
+This is the component I spent the most time wallowing about in my mind. The logistical reasons for choosing this GPU have carried on in my mind since before I began planning the 2017 build. Budgets, timing, and the bitcoin boom kept me on my Nvidia GTX 1080 which I'd gotten for a song.
 
 After ~3 years of back-and-forth I decided to shoot my shot. I've eyed PowerColor's RedDevil series because of their chart-topping thermal performance which often beats out meme-worthy-shit-posting cards like the `THICC`. I would also be _fucking liar_ if I said the aggressive design wasn't a contributing factor.
 
@@ -101,7 +101,7 @@ I'm a slave to appearances.
 
 The primary goal has been to remove myself from Nvidia's Closed Source Proprietary Drivers and reward one of AMD's best engineering strides: Pushing their Linux Graphics Drivers directly into the Linux Kernel Firmware Tree. This ensures any Linux Distro booting a modern kernel will have full GPU support out of the box.
 
-Linux as a first-class citizen. 
+Linux as a first-class citizen.
 
 Finally! The Year of the Linux Desktop! `/s`
 
@@ -126,7 +126,7 @@ An 8-core, 16 thread fucking _beef bus_ for well under $300 bones. What a muther
 
 # All that to say:
 
-I bought a bunch of shit. Then I put it together like legos and felt a false sense of accomplishment. 
+I bought a bunch of shit. Then I put it together like legos and felt a false sense of accomplishment.
 
 You can read my embarrassing human thoughts about it [here.](/2020/07/27/Zen-Art.html)
 
