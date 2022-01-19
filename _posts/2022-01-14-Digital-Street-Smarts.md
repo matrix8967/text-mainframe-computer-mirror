@@ -190,12 +190,10 @@ There's _no way_ anyone is still reading anything by this point, and it's kind o
 
 # TO DO:
 
-```
-* Dissect longer sections into dedicated posts.
-* Clean up the messy, redundant, and unclear language.
-* Firefox about:config customizations & Profiles.
-* Add visuals to break up the walls of text. (gifs, screenshots, screencaptures, etc.)
-* Details about Email / Firefox Relay.
-```
+- [ ] Dissect longer sections into dedicated posts.
+- [ ] Clean up the messy, redundant, and unclear language.
+- [ ] Firefox about:config customizations & Profiles.
+- [ ] Add visuals to break up the walls of text. (gifs, screenshots, screencaptures, etc.)
+- [ ] Details about Email / Firefox Relay.
 
 Thanks for coming to my TedTalk.
