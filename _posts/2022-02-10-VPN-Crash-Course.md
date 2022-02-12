@@ -13,6 +13,8 @@ If Mullvad doesn't work for you -- I'm also a fan of [ProtonVPN](https://protonv
 
 If you're reading this -- there is a `99.9%` chance that you know me personally, and I sent you this link because we talked about VPNs. Use this one.
 
+-----
+
 # Why's and Wherefores:
 
 One of the most _actionable_ steps someone can take to start taking control of their digital-life is to use a reputable VPN (Virtual Private Network.)
