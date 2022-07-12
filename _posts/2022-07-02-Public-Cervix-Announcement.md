@@ -17,25 +17,27 @@ I hope nobody I love ever has to refer to this information...But there's no virt
 
 So let's get started.
 
-## The worst DIY project.
+## _Totally_ legally binding disclaimer:
 
-A quick disclaimer: I'm just another dude on the internet.
+I'm just another dude on the internet.
 
 I don't know fucking _anything_.
 
-_These resources are strictly educational._
+_These resources are strictly for educational purposes._
 
 It's up to you to understand the various risks involved with your situation.
 
-This is not Medical Advice or Legal Advice.
+This is not Medical Advice or Legal Advice. It's _questionable_ advice at best?
 
-The following are resources for accessing medication (mifepristone & misoprostol) and managing your health at home.
+The following are resources for accessing medication (mifepristone & misoprostol) and managing your reproductive health at home.
 
 These are _NOT_ Emergency Contraceptives (PlanB). This is also not a `1:1` substitute for a clinical medical procedure.
 
 ---
 
-## 🔗️ Links
+## SMAs: Be your own boss with the worst DIY project ever...
+
+* Here are the 🔗️s:
 
 ### [Reproaction](https://reproaction.org/campaign/self-managed-abortion/)
 
