@@ -7,17 +7,17 @@ tags: 2022 human-after-all How2
 
 ## Timewarp
 
-America seems to have dropped any pretense of subtlety in it's pursuits of a _Christian-Taliban Theocratic Oligarchy_.
+America seems to have dropped any pretense of subtlety in it's pursuits of a _Theocratic Oligarchy_.
 
-`Roe V. Wade` was never about fetuses or children - it was about saving women from the unfathomable horrors of self mutilation...
+`Roe V. Wade` was never about fetuses or children - it was about trading in the unfathomable horrors of self mutilation for reasonable access to basic reproductive health care.
 
 As a way to combating the looming feeling of helplessness -- I've gathered some informational resources to share here.
 
-I hope nobody I love ever has to refer to this information...But there's no virtuie in ingnorance...
+I hope nobody I love ever has to refer to this information...But there's no virtue in ingnorance...
 
 So let's get started.
 
-## The worst DIY project
+## The worst DIY project.
 
 A quick disclaimer: I'm just another dude on the internet.
 
@@ -85,7 +85,9 @@ So I guess that's that.
 
 I wish I had something meaningful to leave off on...
 
-Typing up shitty blog posts isn't going to fix this...But maybe it'll be good bathroom reading for someone, idfk.
+Typing up shitty blog posts isn't going rid the world of the _Christian-Taliban_.
+
+But maybe it'll be good bathroom reading for someone, idfk.
 
 ```
 
